@@ -1,0 +1,15 @@
+.hangman-drawing {
+  margin-right: 90px;
+}
+
+@media (max-width: 600px) {
+  .hangman-drawing {
+    zoom: 0.7;
+  }
+}
+
+@media (max-width: 400px) {
+  .hangman-drawing {
+    zoom: 0.55;
+  }
+}
